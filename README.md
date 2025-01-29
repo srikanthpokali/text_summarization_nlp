@@ -25,7 +25,7 @@ Abstractive summarization generates new sentences using deep learning models, pa
 To run the project, ensure the following dependencies are installed:
 - Python
 - spaCy (`en_core_web_sm` model)
-- Transformers (Hugging Face library)
+- Transformers 
 
 ## Usage
 1. Run the script to preprocess text and perform extractive summarization.
